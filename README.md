@@ -1,5 +1,5 @@
 # BrainTumorDetectionUsingML-DL
-Trial1:>br>
+Trial1:<br>
 Implementation of CNN without any preprocessing on images
 <br>
 Trial2:<br>
