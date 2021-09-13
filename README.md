@@ -1,8 +1,8 @@
 # BrainTumorDetectionUsingML-DL
-Trial1:
+Trial1:>br>
 Implementation of CNN without any preprocessing on images
 <br>
-Trial2:
+Trial2:<br>
 Used pytorch for preprocessing,applied resnet18 model.
 <br>
 At epoch 122 we get the highest testing accuracy of 78.502%.
