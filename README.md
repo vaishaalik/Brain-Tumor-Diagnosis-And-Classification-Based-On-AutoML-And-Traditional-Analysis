@@ -10,4 +10,5 @@ At epoch 122 we get the highest testing accuracy of 78.502%.
 
 
 > Median filtering technique 
-> Convert images to grey scale
+> Convert images to grey scale<br>
+> https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
