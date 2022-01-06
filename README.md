@@ -6,7 +6,10 @@ Trial2:<br>
 Used pytorch for preprocessing,applied resnet18 model.
 <br>
 At epoch 122 we get the highest testing accuracy of 78.502%.
-
+<br>
+Trial4:<br>
+has the vgg 16 model
+<br>
 
 
 > Median filtering technique 
