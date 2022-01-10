@@ -8,7 +8,7 @@ Used pytorch for preprocessing,applied resnet18 model.
 At epoch 122 we get the highest testing accuracy of 78.502%.
 <br>
 Trial4:<br>
-has the vgg 16 model
+has the lr,knn,svm and vgg 16 models
 <br>
 
 
