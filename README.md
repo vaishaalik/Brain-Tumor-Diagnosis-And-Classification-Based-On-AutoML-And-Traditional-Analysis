@@ -14,3 +14,6 @@ has the lr,knn,svm,cnn and vgg 16 models
 ConfusionMatrices:<br>
 Contains final results of all 7 models with original and pre-processed images.
 <br>
+
+Dataset link:<br>
+https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
