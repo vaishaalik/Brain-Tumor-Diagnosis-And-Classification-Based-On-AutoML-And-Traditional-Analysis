@@ -8,10 +8,9 @@ Used pytorch for preprocessing,applied resnet18 model.
 At epoch 122 we get the highest testing accuracy of 78.502%.
 <br>
 Trial4:<br>
-has the lr,knn,svm and vgg 16 models
+has the lr,knn,svm,cnn and vgg 16 models
 <br>
 
-
-> Median filtering technique 
-> Convert images to grey scale<br>
-> https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+ConfusionMatrices:<br>
+Contains final results of all 7 models with original and pre-processed images.
+<br>
