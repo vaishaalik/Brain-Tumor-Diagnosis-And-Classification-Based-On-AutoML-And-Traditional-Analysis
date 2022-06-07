@@ -5,8 +5,12 @@ Implementation of CNN without any preprocessing on images
 
 Trial2:<br>
 Used pytorch for preprocessing,applied resnet18 model.
-
 <br>
+
+Trial3:<br>
+Running the CNN model again by tweaking some parameters.
+<br>
+
 Trial4:<br>
 This folder contains the lr,knn,svm,cnn and transfer learning models.
 <br>
