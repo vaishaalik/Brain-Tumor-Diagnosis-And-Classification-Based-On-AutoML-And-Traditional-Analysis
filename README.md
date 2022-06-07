@@ -1,4 +1,4 @@
-# BrainTumorDetectionUsingML-DL
+# Brain Tumor Diagnosis And Classification Based On AutoML And Traditional Analysis
 Trial1:<br>
 Implementation of CNN without any preprocessing on images
 <br>
